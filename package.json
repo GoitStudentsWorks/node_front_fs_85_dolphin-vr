@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GoitStudentsWorks.github.io/node_front_fs_85_dolphin-vr",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
