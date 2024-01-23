@@ -52,7 +52,7 @@ const theme = {
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <PersistGate loading={null} persistor={persistor}>
-      <HashRouter basename="/">
+      <HashRouter basename="node_front_fs_85_dolphin-vr">
         <ThemeProvider theme={theme}>
           <Provider store={store}>
             <App />
